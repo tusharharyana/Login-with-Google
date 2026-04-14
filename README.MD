@@ -33,10 +33,16 @@ This project demonstrates **OAuth 2.0 Authentication (Authorization Code Flow)**
 
 ## Setup Instructions
 
-### 🔹 1. Clone Repository
+## 🔹 1. Clone Repository
 
 ```bash
 git clone https://github.com/tusharharyana/Login-with-Google.git
+```
+
+## 🔹 Get Id and Secret
+
+```bash
+https://console.cloud.google.com/
 ```
 
 ## 🔹 2. Backend Setup (Spring Boot)
